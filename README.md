@@ -8,9 +8,9 @@ O *Top Instagram Accounts Dataset* é uma coleção de 200 linhas de dados que o
 
 Este projeto visa criar uma aplicação para analisar as variáveis relacionadas a interação das contas do Instagram, tendo como variável alvo, o engajamento, ou "eng rate". Essa métrica calcula a taxa de engajamento de uma conta dividindo o número total de curtidas e comentários recebidos pelo número total de seguidores, expresso em porcentagem. 
 
-O conjunto de dados [*Top Instagram Influencers Data (Cleaned)*](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data) foi utilizados na construção deste projeto.
+O conjunto de dados [*Top Instagram Influencers Data (Cleaned)*](https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned/data) foi utilizados na construção deste projeto.
 
 
 ## Desenvolvedores
-- [Elai Emylle Matos de Lima](url-do-github-do-desenvolvedor-#2)
+- [Elai Emylle Matos de Lima](url-do-github-do-desenvolvedor-#1)
 - [Luana Oliveira da Silva](https://github.com/luanaoliveira)
