@@ -36,10 +36,14 @@ Para configurar o ambiente e executar o projeto, siga as instruções abaixo:
 ## Estrutura dos Arquivos
   O repositório é organizado da seguinte forma:
    ```bash
-    top_instagram_accounts.csv      # Dados utilizados no projeto
-    Insta_Data_Science.ipynb        # Notebook principal desenvolvido no Google Colab
-    README.md                       # Documentação do projeto
-    requirements.txt                # Dependências do projeto (para ambientes locais)
+    /data
+     top_instagram_accounts.csv                    # Dados utilizados no projeto
+   .gitignore                                      # Arquivos e diretórios ignorados pelo Git
+   LICENSE                                         # Licença do projeto
+   README.md                                       # Documentação do projeto
+   Relatório Técnico - Regressão Linear.docx.pdf   # Relatório técnico detalhado
+   requirements.txt                                # Dependências do projeto (para ambientes locais)
+   Insta_Data_Science.ipynb                        # Notebook principal desenvolvido no Google Colab
 
   ```
 
@@ -49,7 +53,8 @@ Para configurar o ambiente e executar o projeto, siga as instruções abaixo:
   - Python - Linguagem de programação principal
   - Pandas - Manipulação e análise de dados
   - Matplotlib e Seaborn - Visualização de dados
-  - Google Colab - Ambiente para execução do código
+  - Sklearn - Sklearn (Scikit-learn) - Implementação de algoritmos de aprendizado de máquina, como modelos de regressão e avaliação de métricas.
+  - Google Colab - Ambiente para execução do código de forma colaborativa, com acesso à nuvem.
 
 ## Autores e Colaboradores
 
