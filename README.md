@@ -10,8 +10,10 @@ Este projeto visa criar uma aplicação para analisar as variáveis relacionadas
 
 O conjunto de dados [*Top Instagram Influencers Data (Cleaned)*](https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned/data) foi utilizados na construção deste projeto.
 
-## Instalação
-Para configurar o ambiente e executar o projeto, siga as instruções abaixo:
+## Como Executar
+
+### *Máquina Local*
+Para configurar o ambiente e executar o projeto em sua máquina local, siga as instruções abaixo:
 
 1. **Clone o repositório:**
    ```bash
@@ -27,11 +29,20 @@ Para configurar o ambiente e executar o projeto, siga as instruções abaixo:
    ```bash
    pip install -r requirements.txt
    ```
+4. Execute o projeto:
+Após a configuração, siga as instruções contidas no notebook ou nos scripts disponíveis para realizar as análises.
 
-## Como Executar
-  1. No Google Colab, abra o arquivo Insta_Data_Science.ipynb localizado na raiz do repositório.
-  2. Faça o upload do conjunto de dados top_instagram_accounts.csv no ambiente do Colab ou ajuste o caminho para leitura, conforme necessário.
-  3. Execute as células do notebook sequencialmente para realizar as análises e gerar os resultados.
+## *Google Colab*
+Para executar o projeto diretamente no Google Colab, siga as etapas abaixo:
+
+1. Abertura do notebook: 
+No Google Colab, abra o arquivo top_insta_influencers_data.ipynb, localizado na raiz do repositório.
+
+2. Carregamento do conjunto de dados:
+Faça o upload do arquivo top_insta_influencers_data.csv para o ambiente do Colab ou ajuste o caminho de leitura conforme necessário. O arquivo está localizado na pasta data na raiz do repositório.
+
+3. Execução das células:
+Execute as células do notebook em ordem sequencial para realizar as análises e obter os resultados.
 
 ## Estrutura dos Arquivos
   O repositório é organizado da seguinte forma:
