@@ -32,7 +32,7 @@ Para configurar o ambiente e executar o projeto em sua máquina local, siga as i
 4. Execute o projeto:
 Após a configuração, siga as instruções contidas no notebook ou nos scripts disponíveis para realizar as análises.
 
-## *Google Colab*
+### *Google Colab*
 Para executar o projeto diretamente no Google Colab, siga as etapas abaixo:
 
 1. Abertura do notebook: 
