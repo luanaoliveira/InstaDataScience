@@ -37,10 +37,13 @@ Para configurar o ambiente e executar o projeto, siga as instruções abaixo:
   O repositório é organizado da seguinte forma:
    ```bash
     /data
-      top_instagram_accounts.csv  # Dados utilizados no projeto
-    Insta_Data_Science.ipynb        # Notebook principal desenvolvido no Google Colab
-    README.md                       # Documentação do projeto
-    requirements.txt                # Dependências do projeto (para ambientes locais)
+     top_instagram_accounts.csv                    # Dados utilizados no projeto
+   .gitignore                                      # Arquivos e diretórios ignorados pelo Git
+   LICENSE                                         # Licença do projeto
+   README.md                                       # Documentação do projeto
+   Relatório Técnico - Regressão Linear.docx.pdf   # Relatório técnico detalhado
+   requirements.txt                                # Dependências do projeto (para ambientes locais)
+   Insta_Data_Science.ipynb                        # Notebook principal desenvolvido no Google Colab
 
   ```
 
